@@ -4,7 +4,8 @@ A new Flutter application.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a story telling where you have to chose from 2 choices and story progresses.
+After you reached the end it will restart.
 
 ![alt_text](https://github.com/sarosh4271/destini_flutter_app/blob/main/screenshots/ss1.png)
 
